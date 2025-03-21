@@ -7,3 +7,7 @@ This repository explores the Langchain ecosystem, showcasing how to integrate bo
 # langsmith 
 Used langsmith for tracing llm queries.
 ![image](https://github.com/user-attachments/assets/eb94709c-0217-4b9f-824c-b08e083cbd52)
+
+# chatbot app using ollama
+![image](https://github.com/user-attachments/assets/a5b19449-5f84-4175-a112-f5925d329869)
+
