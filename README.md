@@ -14,3 +14,7 @@ Used langsmith for tracing llm queries.
 
 # openai vs ollama | paid vs unpaid models
 ![image](https://github.com/user-attachments/assets/5af632ce-36ac-46fe-88aa-9e9594071691)
+
+# api routes for models (openai/ollama)
+![image](https://github.com/user-attachments/assets/3e1c0208-279b-4db8-993e-000406e20be3)
+
