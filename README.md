@@ -11,3 +11,6 @@ Used langsmith for tracing llm queries.
 # chatbot app using ollama
 ![image](https://github.com/user-attachments/assets/a5b19449-5f84-4175-a112-f5925d329869)
 ![image](https://github.com/user-attachments/assets/73e8b2b1-4718-4f7f-af6d-11cbf5195356)
+
+# openai vs ollama | paid vs unpaid models
+![image](https://github.com/user-attachments/assets/5af632ce-36ac-46fe-88aa-9e9594071691)
