@@ -18,3 +18,7 @@ Used langsmith for tracing llm queries.
 # api routes for models (openai/ollama)
 ![image](https://github.com/user-attachments/assets/3e1c0208-279b-4db8-993e-000406e20be3)
 
+# using chain and retriever
+Build a perfect Q&A with RAG Pipeline along with Retriever and Chain with LangChain.
+![image](https://github.com/user-attachments/assets/12e3b76b-71ac-4a7d-a7c1-343b5d30bf7e)
+
