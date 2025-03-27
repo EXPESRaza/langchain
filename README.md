@@ -22,3 +22,6 @@ Used langsmith for tracing llm queries.
 Build a perfect Q&A with RAG Pipeline along with Retriever and Chain with LangChain.
 ![image](https://github.com/user-attachments/assets/12e3b76b-71ac-4a7d-a7c1-343b5d30bf7e)
 
+# multi-search agent rag
+![image](https://github.com/user-attachments/assets/7186fcd5-dd06-426f-ab4a-2bc7f5f5cad9)
+
