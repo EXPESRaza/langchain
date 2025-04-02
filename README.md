@@ -30,4 +30,5 @@ Build a perfect Q&A with RAG Pipeline along with Retriever and Chain with LangCh
 
 # chatbot app using Llama3, Langchain and Groq API
 ![image](https://github.com/user-attachments/assets/9dd6f4a6-b24b-45e1-9bde-cf05fde7481c)
+![image](https://github.com/user-attachments/assets/5c4569fc-0754-48c4-8f20-7983be0b4ac4)
 
