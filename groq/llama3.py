@@ -66,7 +66,7 @@ if prompt1:
     retrieval_chain=create_retrieval_chain(retriever,document_chain)
     start=time.process_time()
     response=retrieval_chain.invoke({'input':prompt1})
-    print("Response time :",time.process_time()-start)
+    st.write("Response time :",time.process_time()-start)
     st.write(response['answer'])
 
     # With a streamlit expander
