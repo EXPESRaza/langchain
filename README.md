@@ -25,5 +25,9 @@ Build a perfect Q&A with RAG Pipeline along with Retriever and Chain with LangCh
 # multi-search agent rag
 ![image](https://github.com/user-attachments/assets/7186fcd5-dd06-426f-ab4a-2bc7f5f5cad9)
 
-# using groq inferencing engine
+# chatbot app using groq inferencing engine
 ![image](https://github.com/user-attachments/assets/cdf3a9cc-061a-42c6-8c3f-0179366b98dd)
+
+# chatbot app using Llama3, Langchain and Groq API
+![image](https://github.com/user-attachments/assets/9dd6f4a6-b24b-45e1-9bde-cf05fde7481c)
+
